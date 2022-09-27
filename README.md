@@ -2,4 +2,4 @@
 
 Lab 1: IP.Addresses
 
-Lab 2: Probability
+Lab 2: Binomial Distribution

@@ -9,3 +9,7 @@ Lab3: IP Packets
 Lab4: Personal Site. [My Website](https://seanwhelan117.wixsite.com/seanwhelan/about-8) 
 
 Lab5: Forwarding and Transport layer
+
+Lab6: TCP - part 1
+
+Lab7: TCP - part 2

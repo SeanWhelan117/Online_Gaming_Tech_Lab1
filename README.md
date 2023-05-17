@@ -15,3 +15,11 @@ Lab6: TCP - part 1
 Lab7: TCP - part 2
 
 Project 1: [Online Tag](https://github.com/SeanWhelan117/OnlineGamingTech_Project_1)
+
+Lab 12: RSA Encryption 1
+
+Lab 13: RSA Encryption 2
+
+Lab 14: Compression
+
+Final Lab: Mix of Questions 
